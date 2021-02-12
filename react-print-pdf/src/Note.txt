@@ -1,0 +1,2 @@
+npm i pure
+npm i react-to-print
