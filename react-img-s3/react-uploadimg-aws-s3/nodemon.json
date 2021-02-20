@@ -1,0 +1,5 @@
+{
+    "env": {
+        "DB_TEMPORARY": "mongodb://localhost:27017/stock-ett"
+    }
+}
