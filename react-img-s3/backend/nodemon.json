@@ -1,0 +1,7 @@
+{
+    "env": {
+        "DB_TEMPORARY": "mongodb://localhost:27017/stock-ett",
+        "accessKeyId": "AKIAJGZRWXZ6TN4WVDUQ",
+        "secretAccessKey": "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"
+    }
+}
